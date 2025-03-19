@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "firstName": "Dimitri",
+    "lastName": "Denans",
+    "email": "dimitri.denans@isen.yncrea.fr",
+    "password": "a"
+  },
+  {
+    "id": 2,
+    "firstName": "Dimitri",
+    "lastName": "Denans",
+    "email": "dimitri.denans@isen.fr",
+    "password": "a"
+  }
+]
